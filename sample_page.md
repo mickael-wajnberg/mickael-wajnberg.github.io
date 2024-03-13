@@ -16,21 +16,11 @@ Relational association rules present multiple advantages:
 - They are descriptive, so it will provide interesting results even with short dataset
 - The relational aspect allows to provides deeper insights than joining table and applying classical data mining techniques
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
 ### 2. Work content
 
 On the plateform, I produced algorithms in C++ (with CPU parallelisation) to compute the rules from multiple algorithms that I used or designed during my thesis. It also includes an inference engine to apprehend the relational aspect through the AI concept of propositionalisation that comes from description logics. Results are stored in a SQL database for which I designed multiple queries and refined indexes to interact with a front end in React and a PHP Laravel backend (I did not participate in the front end development) 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
 ### 3. Results
 
