@@ -19,7 +19,9 @@ Relational association rules present multiple advantages:
 
 ### 2. Work content
 
-On the plateform, I produced algorithms in C++ (with CPU parallelisation) to compute the rules from multiple algorithms that I used or designed during my thesis. It also includes an inference engine to apprehend the relational aspect through the AI concept of propositionalisation that comes from description logics. Results are stored in a SQL database for which I designed multiple queries and refined indexes to interact with a front end in React and a PHP Laravel backend (I did not participate in the front end development) 
+On the plateform, I produced algorithms in C++ (with CPU parallelisation) to compute the rules from multiple algorithms that I used or designed during my thesis. It also includes an inference engine to apprehend the relational aspect through the AI concept of propositionalisation that comes from description logics. Results are stored in a SQL database for which I designed the structure, multiple queries and refined indexes to interact with a front end in React and a PHP Laravel backend (I did not participate in the front end development and only in laravel queries in the php). I also developed a Python pipeline to produce multiple data visualisation.
+
+**key skills:** Artificial Intelligence, Machine Learning, Data Visualisation, C++, C++ concurrency, SQL, Python
 
 
 ### 3. Results
