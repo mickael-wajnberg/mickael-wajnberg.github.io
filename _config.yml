@@ -2,11 +2,11 @@ title: Mickael Wajnberg # your name (or website title) here
 logo: "/images/choix2rond.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  <h4>Double Ph.D. in Computer Science</h4>
+  <b>Double Ph.D. in Computer Science</b>
   <br>
-  Université du Québec À Montréal
+  - Université du Québec À Montréal
   <br>
-  Université de Lorraine
+  - Université de Lorraine
   <br><br>
   Specialization in:
   <br>  - Data Science 
