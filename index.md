@@ -4,7 +4,7 @@
 
 ### Peekaboo.ai
 
-[Rule Miner for Multi-Relational Dataset](/sample_page)
+[Rule Miner for Multi-Relational Dataset](/peekaboo)
 <br><br>
 <img src="images/peekaboo.png?raw=true"/>
 
