@@ -5,7 +5,7 @@ title: "Peekaboo.ai"
 
 ## A Partnership with Softwords Consulting : Peekaboo.ai
 
-**Project description:** This project is a highly efficient association rule miner based on my phD thesis work. After graduation, I optimized the project for a commercial version. It is subject to a NDA so no code can be displayed but you can consult the project on [the peekaboo web page](https://peekaboo.ai/). 
+**Project description:** This project is a highly efficient association rule miner based on my phD thesis work. After graduation, I optimized the project for a commercial version. It is subject to a NDA so no code can be displayed but you can consult the project on [the peekaboo web page](https://peekaboo.ai/){:target="_blank"}. 
 
 
 ### 1. Advantages of relational association rules
