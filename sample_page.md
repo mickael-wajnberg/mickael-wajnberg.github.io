@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Mon Super Titre"
+title: "Peekaboo.ai"
 ---
 
 ## A Partnership with Softwords Consulting : Peekaboo.ai
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** This project is a highly efficient association rule miner based on my phD thesis work. After graduation, I optimized the project for a commercial version. It is subject to a NDA so no code can be displayed but you can consult the project on [the peekaboo web page](https://peekaboo.ai/)
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
