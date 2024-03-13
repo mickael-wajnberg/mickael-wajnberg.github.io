@@ -32,4 +32,4 @@ The algorithms resulted in multiple concrete applications, such as in:
 - neurolinguistics
 - oncology
 
-A list of scientific publications can be found [here](https://scholar.google.com/citations?user=3pcvJ90AAAAJ&hl=fr)
+A list of scientific publications can be found <a href="https://scholar.google.com/citations?user=3pcvJ90AAAAJ&hl=fr" target="_blank">here</a>
