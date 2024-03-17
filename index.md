@@ -6,12 +6,12 @@
 
 [Rule Miner for Multi-Relational Dataset](/peekaboo)
 <br><br>
-<img src="images/peekaboo.png?raw=true"/>
+<img src="images/peekaboo.png?raw=true" style="width: 75%; height: auto;"/>
 
 ---
 ### Time Series Forcasting
 [From Statistics to Deep Learning](https://mickael-wajnberg.github.io/TimeSeriesForecasting)<br><br>
-<img src="images/4c0bbce3-69d9-4df8-b872-35812780ecb0.webp?raw=true" style="width: 50%; height: auto;"/>
+<img src="images/4c0bbce3-69d9-4df8-b872-35812780ecb0.webp?raw=true" style="width: 75%; height: auto;"/>
 
 ---
 ### Clustering 
@@ -21,7 +21,7 @@
 ---
 ### Data Analysis
 [Hackathon HackQc 2018 Winner : Green Score](https://devpost.com/software/green-score-xj0gfb){:target="_blank"}<br><br>
-<img src="images/HAck.webp?raw=true" style="width: 50%; height: auto;"/>
+<img src="images/HAck.webp?raw=true" style="width: 75%; height: auto;"/>
 
 
 
