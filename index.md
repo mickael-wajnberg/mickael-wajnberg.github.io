@@ -20,7 +20,7 @@
 
 ---
 ### Data Analysis
-[Hackathon HackQc 2018 Winner : Green Score](https://devpost.com/software/green-score-xj0gfb){
+[Hackathon HackQc 2018 Winner : Green Score](https://devpost.com/software/green-score-xj0gfb){:target="_blank"}
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
