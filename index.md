@@ -10,7 +10,7 @@
 
 ---
 ### Time Series Forcasting
-[Project 2 Title](https://mickael-wajnberg.github.io/TimeSeriesForecasting)
+[Project 2 Title](https://mickael-wajnberg.github.io/TimeSeriesForecasting)<br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
