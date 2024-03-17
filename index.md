@@ -10,8 +10,8 @@
 
 ---
 ### Time Series Forcasting
-[Project 2 Title](https://mickael-wajnberg.github.io/TimeSeriesForecasting)<br><br>
-<img src="images/4c0bbce3-69d9-4df8-b872-35812780ecb0.webp?raw=true"/>
+[From statistics to Deep Learning](https://mickael-wajnberg.github.io/TimeSeriesForecasting)<br><br>
+<img src="images/4c0bbce3-69d9-4df8-b872-35812780ecb0.webp?raw=true" style="width: 50%; height: auto;"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -19,13 +19,14 @@
 
 ---
 
-### Category Name 2
+### Publications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Find my list of scientific publications [here](https://scholar.google.com/citations?user=3pcvJ90AAAAJ&hl=fr)
+<br>Publications are in Data Science, Knowldge discovery, Artificial Intelligence and Distributed Database applied to multiple fields such as: <br>
+- Neurology
+- Neurolinguistics
+- Oncology
+- Metal Manufacturing
 
 ---
 
