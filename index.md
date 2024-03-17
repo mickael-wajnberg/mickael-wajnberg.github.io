@@ -11,7 +11,7 @@
 ---
 ### Time Series Forcasting
 [Project 2 Title](https://mickael-wajnberg.github.io/TimeSeriesForecasting)<br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/4c0bbce3-69d9-4df8-b872-35812780ecb0.webp?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
